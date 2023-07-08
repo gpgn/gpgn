@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm a Cloud & ML Engineer / Research Scientist
-Interested in distributed, autonomous, and 🌱 carbon-aware systems.
+###### Interested in distributed, autonomous, and 🌱 carbon-aware systems.
 <!--
 **gpgn/gpgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
